@@ -1,2 +1,2 @@
 # Java-Basics
-Here you can find of my exercises with Java. 
+Here you can find some problems solved with Java. 
